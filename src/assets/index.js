@@ -1,5 +1,5 @@
 import SignUp from "./illustrations/sign-up.svg";
-export * from "./icons/close-icon";
+export * from "./icons/CloseIcon";
 
 export const Illustrations = {
   SignUp,
