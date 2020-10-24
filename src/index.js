@@ -37,10 +37,10 @@ const App = () => {
           justifyContent: "space-around",
         }}
       >
+        <SignUpModal></SignUpModal>
         <PrimaryButton>Hello world</PrimaryButton>
         <SecondaryButton>Goodbye world</SecondaryButton>
         <TertiaryButton>Hey world</TertiaryButton>
-        <SignUpModal></SignUpModal>
         <GlobalStyle />
       </div>
     </ThemeProvider>
