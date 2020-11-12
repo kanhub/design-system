@@ -1,3 +1,3 @@
 # Kanhub Design System
 
-Uses Styled Componenets, Polished, React-Spring for animations, and Storybook for documentation (WIP)
+Uses Styled Components, Polished, React-Spring for animations, and Storybook for documentation (WIP)
